@@ -11,6 +11,7 @@ Question:
 What did you learn after looking on our dataset?
 
 Answer: 
+
 The following observations were deduced from the dataset:
 
     1. The dataset contains 1080 png files
@@ -36,9 +37,11 @@ In brief the solution calculates change score of 2 consecutive images after prep
 
 
 Question: 
+
 What values did you decide to use for input parameters and how did you find these values?
 
 Answer: 
+
 The following values were selected
 
     1. gaussian_blur_radius_list: 
@@ -58,9 +61,11 @@ The following values were selected
 
 
 Question: 
+
 What you would suggest to implement to improve data collection of unique cases in future?
 
 Answer: 
+
 To improve data collection we could focus on:
 
     1.  Including a wide range of environmental conditions, lighting conditions, and variations 
@@ -75,7 +80,9 @@ To improve data collection we could focus on:
 
 
 Question: 
+
 Any other comments about your solution?
 
 Answer: 
+
 The task was a great learning experience.
