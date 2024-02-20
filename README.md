@@ -7,6 +7,7 @@ Answer to the assignment questions:
 Question: What did you learn after looking on our dataset?
 
 The following observations were deduced from the dataset:
+
     1. The dataset contains 1080 png files
     2. The images are of varying resolutions and sizes
     3. There is a corrupt png file c21_2021_03_27__10_36_36.png which we are unable to read into our code.
@@ -18,7 +19,8 @@ The following observations were deduced from the dataset:
 
 Question: How does you program work?
 
-The details of the working of the programm are explained in the solution.ipynb notebook in the repo. The code has been developed iteratively to solve various problems apart from the main task which is reading the directory files and deleting the similar images. 
+The details of the working of the programm are explained in the solution.ipynb notebook in the repo. 
+The code has been developed iteratively to solve various problems apart from the main task which is reading the directory files and deleting the similar images. 
 
 In brief the solution calculates change score of 2 consecutive images after preprocessing them using the already provided functions. The code then deletes them if the score is less than 300. On executing the solution.py file, the user is asked to input the directory path containing the png images(currently designed to handle only png). It also checks for errors while reading and deleting the images to prevent the code from being interrupted.
 
