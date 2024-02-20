@@ -6,9 +6,9 @@ Files in the repository:
 
 1. ```solution.py``` contains the final code to accept the target image directory as user input and run the similarity calculations to delete the similar images.
 
-2. ```solution.ipynb``` contains experiments on the dataset to determine various parameters and addition of improvements to code logic. The run of the trials have been recorded and useful to find out the changes made in the code and the reson behind it.
+2. ```solution.ipynb``` contains experiments on the dataset to determine various parameters and iterative improvements to code logic. The run of the trials have been recorded and useful to find out the changes made in values of key parameters in the code and the reason behind it. Trials can either contain modifications to parameters or code logic for various problems encountered at various stages.
 
-3. ```requirements.txt``` contains dependency for the project. They should be installed before executing the solution.py file.
+4. ```requirements.txt``` contains dependency for the project. They should be installed before executing the solution.py file.
 
 
 Answer to the assignment questions:
