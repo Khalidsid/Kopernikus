@@ -26,7 +26,7 @@ In brief the solution calculates change score of 2 consecutive images after prep
 The following values were selected
 
     1. gaussian_blur_radius_list: 
-    It was set to 9 after iterating for various values. Higher blur value may result in \
+    It was set to 9 after iterating for various values. Higher blur value may result in 
     blurring the key features of the images and lower value results to be computationally 
     expensive. To retain the balance of features and computation we arrived at the value of 9.
     More details providedd in solution.ipynb in Trial 5.
