@@ -1,4 +1,5 @@
 # Kopernikus
+
 Solution to the take home code assignment
 
 Answer to the assignment questions:
@@ -42,9 +43,15 @@ The following values were selected
 4. What you would suggest to implement to improve data collection of unique cases in future?
 
 To improve data collection we could focus on:
-    1.  Including a wide range of environmental conditions, lighting conditions, and variations in object appearances.
-    2. Add synthetic lightning / orientation effects on existing images to create a wider level of variation in the dataset.
-    3. Most of the cases in this dataset has very few objects. A more crowded space can be used to identify more challenging situatuions.
+
+    1.  Including a wide range of environmental conditions, lighting conditions, and variations 
+    in object appearances.
+    
+    2. Add synthetic lightning / orientation effects on existing images to create a wider level
+    of variation in the dataset.
+    
+    3. Most of the cases in this dataset has very few objects. A more crowded space can be used
+    to identify more challenging situatuions.
 
 5. Any other comments about your solution?
 
