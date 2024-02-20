@@ -26,9 +26,11 @@ The following observations were deduced from the dataset:
 
 
 Question: 
+
 How does you program work?
 
 Answer: 
+
 The details of the working of the programm are explained in the solution.ipynb notebook in the repo. 
 The code has been developed iteratively to solve various problems apart from the main task which is reading the directory files and deleting the similar images. 
 
