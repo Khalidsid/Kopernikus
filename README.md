@@ -26,10 +26,15 @@ In brief the solution calculates change score of 2 consecutive images after prep
 The following values were selected
 
     1. gaussian_blur_radius_list: 
-    It was set to 9 after iterating for various values. Higher blur value may result in blurring the key features of the images and lower value results to be computationally expensive. To retain the balance of features and computation we arrived at the value of 9. More details providedd in solution.ipynb in Trial 5.
+    It was set to 9 after iterating for various values. Higher blur value may result in \
+    blurring the key features of the images and lower value results to be computationally 
+    expensive. To retain the balance of features and computation we arrived at the value of 9.
+    More details providedd in solution.ipynb in Trial 5.
 
     2. min_contour_area: 
-    This was set to 25 to allow the code to detect objects which are small due to being at a farther distance fromt he camera. refer Trial 5 in Solutions.ipynb where a car could not be detected with a higher value of contour area. 
+    This was set to 25 to allow the code to detect objects which are small due to being at
+    a farther distance fromt he camera. refer Trial 5 in Solutions.ipynb where a car could 
+    not be detected with a higher value of contour area. 
 
     3. threshold for change_score:
     This was set at 300 after the results of Trial 7(solution.ipynb)
