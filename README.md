@@ -6,7 +6,7 @@ Answer to the assignment questions:
 
 
 
-Question: 
+Question 1: 
 
 What did you learn after looking on our dataset?
 
@@ -25,7 +25,7 @@ The following observations were deduced from the dataset:
 
 
 
-Question: 
+Question 2: 
 
 How does you program work?
 
@@ -38,7 +38,7 @@ In brief the solution calculates change score of 2 consecutive images after prep
 
 
 
-Question: 
+Question 3: 
 
 What values did you decide to use for input parameters and how did you find these values?
 
@@ -62,7 +62,7 @@ The following values were selected
 
 
 
-Question: 
+Question 4: 
 
 What you would suggest to implement to improve data collection of unique cases in future?
 
@@ -81,7 +81,7 @@ To improve data collection we could focus on:
 
 
 
-Question: 
+Question 5: 
 
 Any other comments about your solution?
 
