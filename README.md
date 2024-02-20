@@ -4,7 +4,7 @@ Solution to the take home code assignment
 
 Answer to the assignment questions:
 
-1. What did you learn after looking on our dataset?
+Question: What did you learn after looking on our dataset?
 
 The following observations were deduced from the dataset:
     1. The dataset contains 1080 png files
@@ -16,13 +16,13 @@ The following observations were deduced from the dataset:
     7. There is a significant change in images due to lightning exposure at different times of day. Making it harder to eliminate redundant images.
     8. The images are taken at time lapse. It appears that they are arranged in the order of time they were taken.
 
-2. How does you program work?
+Question: How does you program work?
 
 The details of the working of the programm are explained in the solution.ipynb notebook in the repo. The code has been developed iteratively to solve various problems apart from the main task which is reading the directory files and deleting the similar images. 
 
 In brief the solution calculates change score of 2 consecutive images after preprocessing them using the already provided functions. The code then deletes them if the score is less than 300. On executing the solution.py file, the user is asked to input the directory path containing the png images(currently designed to handle only png). It also checks for errors while reading and deleting the images to prevent the code from being interrupted.
 
-3. What values did you decide to use for input parameters and how did you find these values?
+Question: What values did you decide to use for input parameters and how did you find these values?
 
 The following values were selected
 
@@ -40,7 +40,7 @@ The following values were selected
     3. threshold for change_score:
     This was set at 300 after the results of Trial 7(solution.ipynb)
 
-4. What you would suggest to implement to improve data collection of unique cases in future?
+Question: What you would suggest to implement to improve data collection of unique cases in future?
 
 To improve data collection we could focus on:
 
@@ -53,6 +53,6 @@ To improve data collection we could focus on:
     3. Most of the cases in this dataset has very few objects. A more crowded space can be used
     to identify more challenging situatuions.
 
-5. Any other comments about your solution?
+Question: Any other comments about your solution?
 
 The task was a great learning experience.
